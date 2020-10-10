@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+  cout<<"请输入两个整数num1,num2：";
+  int num1,num2;
+  cin>>num1>>num2;
+  int num3 = num1 + num2;
+  cout<<"两个整数的和为："<<num3<<'\n';
+  
+  
+  cout<<"hello,gdfus"<<'\n';
+  
+  cout<<"******"<<'\n';
+  cout<<"***** "<<'\n';
+  cout<<"****"<<'\n';
+  cout<<"***"<<'\n';
+  cout<<"**"<<'\n';
+  cout<<"*"<<'\n';
+  return 0;
+  }
